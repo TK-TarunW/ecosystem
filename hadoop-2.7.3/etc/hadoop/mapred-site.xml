@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<configuration>
+ <property>
+ <name>mapreduce.framework.name</name>
+ <value>yarn</value>
+ </property>
+<property>
+ <name>mapred.job.tracker</name>
+ <value>localhost:9001</value>
+ </property>
+<property>
+<name>mapreduce.application.classpath</name> 
+<value>\TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\mapreduce\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\mapreduce\lib\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\common\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\common\lib\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\yarn\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\yarn\lib\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\hdfs\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\hdfs\lib\*,
+ </value>
+</property>
+</configuration>
