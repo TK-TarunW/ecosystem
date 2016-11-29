@@ -23,12 +23,12 @@
     </property>
     <property>
         <name>dfs.namenode.name.dir</name>
-        <value>/hadoop-data/data/v1/name</value>
+        <value>/hadoop-data/2.6.0/data/name</value>
         <final>true</final>
     </property>
     <property>
         <name>dfs.datanode.data.dir</name>
-        <value>/hadoop-data/data/v1/data</value>
+        <value>/hadoop-data/2.6.0/data/data</value>
         <final>true</final>
     </property>
 </configuration>

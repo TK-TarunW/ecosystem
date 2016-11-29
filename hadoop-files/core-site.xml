@@ -17,18 +17,12 @@
 <!-- Put site-specific property overrides in this file. -->
 
 <configuration>
-    <property>
-        <name>dfs.replication</name>
-        <value>1</value>
-    </property>
-    <property>
-        <name>dfs.namenode.name.dir</name>
-        <value>/hadoop-data/data/v1/name</value>
-        <final>true</final>
-    </property>
-    <property>
-        <name>dfs.datanode.data.dir</name>
-        <value>/hadoop-data/data/v1/data</value>
-        <final>true</final>
-    </property>
+<property>
+ <name>hadoop.tmp.dir</name>
+ <value>E:\TK-tarunw\reqsol\ecosystem\hadoop-2.6.0\temp</value>
+</property>
+<property>
+<name>fs.default.name</name>
+ <value>hdfs://localhost:50071</value>
+</property>
 </configuration>
