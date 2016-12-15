@@ -22,7 +22,7 @@
 @rem remote nodes.
 
 @rem The java implementation to use.  Required.
-set JAVA_HOME=c:\progra~1\Java\jdk1.8.0_101
+set JAVA_HOME=c:\progra~1\Java\jdk1.8.0_65
 
 @rem The jsvc implementation to use. Jsvc is required to run secure datanodes.
 @rem set JSVC_HOME=%JSVC_HOME%

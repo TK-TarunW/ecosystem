@@ -21,12 +21,12 @@
     </property>
     <property>
         <name>yarn.nodemanager.log-dirs</name>
-        <value>\TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\userlogs</value>
+        <value>\TK-tarunw\hadoop-ecosystem\ecosystem\hadoop-2.7.3\userlogs</value>
         <final>true</final>
     </property>
     <property>
         <name>yarn.nodemanager.local-dirs</name>
-        <value>\TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\temp\nm-localdir</value>
+        <value>\TK-tarunw\hadoop-ecosystem\ecosystem\hadoop-2.7.3\temp\nm-localdir</value>
     </property>
     <property>
         <name>yarn.nodemanager.delete.debug-delay-sec</name>
@@ -35,14 +35,14 @@
     <property>
         <name>yarn.application.classpath</name>
         <value>
-		>/TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/mapreduce/*,
- /TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/mapreduce/lib/*,
- /TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/common/*,
- /TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/common/lib/*,
- /TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/yarn/*,
- /TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/yarn/lib/*,
- /TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/hdfs/*,
- /TK-tarunw/reqsol/ecosystem/hadoop-2.7.3/share/hadoop/hdfs/lib/*,
+		>/TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/mapreduce/*,
+ /TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/mapreduce/lib/*,
+ /TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/common/*,
+ /TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/common/lib/*,
+ /TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/yarn/*,
+ /TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/yarn/lib/*,
+ /TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/hdfs/*,
+ /TK-tarunw/hadoop-ecosystem/ecosystem/hadoop-2.7.3/share/hadoop/hdfs/lib/*,
 
         </value>
     </property>

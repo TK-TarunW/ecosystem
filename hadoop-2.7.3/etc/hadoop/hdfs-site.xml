@@ -23,12 +23,12 @@
     </property>
     <property>
         <name>dfs.namenode.name.dir</name>
-        <value>/hadoop-data/data/v1/name</value>
+        <value>/TK-tarunw/hadoop-ecosystem/data/namenodedir</value>
         <final>true</final>
     </property>
     <property>
         <name>dfs.datanode.data.dir</name>
-        <value>/hadoop-data/data/v1/data</value>
+        <value>/TK-tarunw/hadoop-ecosystem/data/datanodedir</value>
         <final>true</final>
     </property>
 </configuration>
