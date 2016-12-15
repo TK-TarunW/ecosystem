@@ -1,0 +1,1 @@
+flume-ng agent --conf-file spool-to-logger.properties --name agent1
