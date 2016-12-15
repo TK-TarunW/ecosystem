@@ -19,3 +19,5 @@ INSERT INTO widgets VALUES (NULL, 'gadget', 99.99, '1983-08-13', 13, 'Our flagsh
 import --connect jdbc:mysql://localhost:3306/hadoopguide
 
 sqoop import --connect jdbc:mysql://localhost:3306/sakila --table actor --username root --password root
+
+-P use this for prompt password. --password is not secure
