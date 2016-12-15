@@ -10,14 +10,14 @@
  </property>
 <property>
 <name>mapreduce.application.classpath</name> 
-<value>\TK-tarunw\hadoop-ecosystem\ecosystem\hadoop-2.7.3\share\hadoop\mapreduce\*,
- \TK-tarunw\reqsol\hadoop-ecosystem\hadoop-2.7.3\share\hadoop\mapreduce\lib\*,
- \TK-tarunw\reqsol\hadoop-ecosystem\hadoop-2.7.3\share\hadoop\common\*,
- \TK-tarunw\reqsol\hadoop-ecosystem\hadoop-2.7.3\share\hadoop\common\lib\*,
- \TK-tarunw\reqsol\hadoop-ecosystem\hadoop-2.7.3\share\hadoop\yarn\*,
- \TK-tarunw\reqsol\hadoop-ecosystem\hadoop-2.7.3\share\hadoop\yarn\lib\*,
- \TK-tarunw\reqsol\hadoop-ecosystem\hadoop-2.7.3\share\hadoop\hdfs\*,
- \TK-tarunw\reqsol\hadoop-ecosystem\hadoop-2.7.3\share\hadoop\hdfs\lib\*,
+<value>\TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\mapreduce\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\mapreduce\lib\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\common\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\common\lib\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\yarn\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\yarn\lib\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\hdfs\*,
+ \TK-tarunw\reqsol\ecosystem\hadoop-2.7.3\share\hadoop\hdfs\lib\*,
  </value>
 </property>
 </configuration>
